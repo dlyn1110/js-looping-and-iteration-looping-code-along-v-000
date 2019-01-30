@@ -15,3 +15,4 @@ function printBadges (names) {
     }
 
     return `You got ${tails} tails in a row!`;
+  }
